@@ -4,7 +4,7 @@ fun main(){
     println(Sapien.weight)
     Sapien.speak("Dinner is ready")
    println(Sapien.birthday())
-    var customer = User("lily","Gikuku","lily@mail.com",7655,"imnc78")
+    var customer = User("lily","Yasmin","lily@mail.com",7655,"imnc78")
     println(customer.email)
     println(customer.phoneNumber)
 
